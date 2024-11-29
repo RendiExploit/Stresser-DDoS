@@ -1,6 +1,7 @@
 # Install Steps
 <details open>
-    <summary><strong>How To Install:</strong></summary>  
+   <summary><strong>How To Install:</strong></summary>  
+   
     steps
   1 pkg update && pkg upgrade
   2 pkg install nodejs
